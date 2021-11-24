@@ -1,7 +1,5 @@
 const nome = "Rebeca";
-const concatenacao =  "Olá" +
- nome +
-  "!"
+const concatenacao =  "Olá" + nome + "!"
 
 //template string
 const template = `Olá ${nome}`
